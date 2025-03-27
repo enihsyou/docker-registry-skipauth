@@ -1,0 +1,8 @@
+{
+	"name": "docker-registry-skipauth",
+	"main": "src/index.js",
+	"compatibility_date": "2025-03-10",
+	"observability": {
+		"enabled": true
+	}
+}
