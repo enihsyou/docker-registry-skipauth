@@ -1,6 +1,5 @@
 export default {
     async fetch(request, env, ctx) {
-        console.log('Request URL:', request.url);
         try {
             return await fetchWithThrowGuard(request, env, ctx);
         } catch (error) {
