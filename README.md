@@ -1,5 +1,8 @@
 # docker-registry-skipauth
 
+> [!IMPORTANT]
+> 本仓库的功能已并入 [enihsyou/docker-mirror-hammal](https://github.com/enihsyou/docker-mirror-hammal)
+
 自动以公共身份完成认证，代理 Docker Registry API 请求的 Cloudflare Worker
 
 ## 简介
